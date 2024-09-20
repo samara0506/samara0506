@@ -1,16 +1,15 @@
-## Hi there 👋
+##BOAS VINDAS AO MEU PERFIL 
 
-<!--
-**samara0506/samara0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-meu nome é samara adriane rodrigues dos Santos
 
-Here are some ideas to get you started:
+-estou estudando alura.
+-estou me desenvolvendo na linguagem javascript 
+-utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+PARA VOCÊ ENTRAR EM CONTATO COMIGO 
+
+samara.santos24@escola.pr.gov.br 
+
+@ls_adrianee
+
+![](![image](https://github.com/user-attachments/assets/6e6f37dc-624e-423c-8e75-bb60254f1e00)
