@@ -1,6 +1,6 @@
 ##BOAS VINDAS AO MEU PERFIL 
 
--meu nome é samara adriane rodrigues dos Santos
+-meu nome é samara adriane rodrigues dos santos
 
 -estou estudando alura.
 -estou me desenvolvendo na linguagem javascript 
